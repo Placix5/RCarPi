@@ -1,5 +1,5 @@
 ﻿RCarPi-Client
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\RCarPi\RCarPi-Client\App.xaml
 11407045341
 
-5-1933484628
+3-1233169557
 194-1325968647
 MainWindow.xaml;
 
