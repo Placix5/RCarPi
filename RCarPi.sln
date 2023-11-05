@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCarPi-Client", "RCarPi-Client\RCarPi-Client.csproj", "{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RCarPi-Server", "RCarPi-Server\RCarPi-Server.vcxproj", "{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|x64.Build.0 = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Debug|x86.Build.0 = Debug|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|x64.ActiveCfg = Release|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|x64.Build.0 = Release|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|x86.ActiveCfg = Release|Any CPU
+		{3299482C-638C-4750-ACA8-1EC1BF5CCFE3}.Release|x86.Build.0 = Release|Any CPU
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|Any CPU.Build.0 = Debug|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|x64.ActiveCfg = Debug|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|x64.Build.0 = Debug|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|x86.ActiveCfg = Debug|Win32
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Debug|x86.Build.0 = Debug|Win32
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|Any CPU.ActiveCfg = Release|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|Any CPU.Build.0 = Release|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|x64.ActiveCfg = Release|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|x64.Build.0 = Release|x64
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|x86.ActiveCfg = Release|Win32
+		{2008CCEE-17C6-4D1B-A4FD-EAD5B8F655C7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFDE4674-10E1-47A8-B188-42081A1CA8DE}
+	EndGlobalSection
+EndGlobal
